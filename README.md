@@ -22,4 +22,5 @@ streamlit run app.py
 ```
 
 ## Author
+Thanuja773
 Karthikeya123777.
