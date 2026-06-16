@@ -22,4 +22,4 @@ streamlit run app.py
 ```
 
 ## Author
-Karthikeya123777
+Karthikeya123777.
